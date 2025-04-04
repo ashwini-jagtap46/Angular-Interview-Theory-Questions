@@ -253,3 +253,6 @@ console.log("value of a is:", a);  // Reference Error
 
 sum();
 --------------------------------------------------------------------------
+How do you reversing an array
+How do you find min and max value in an array
+How do you find min and max values without Math functions
