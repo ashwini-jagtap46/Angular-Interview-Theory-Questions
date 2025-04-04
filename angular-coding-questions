@@ -1,0 +1,13 @@
+Create Custom Pipe?
+Create Custome Directive?
+Take a input box and implement search on array of elements functionality?
+Explain What below code does?
+@Component({
+  selector: 'app-example',
+  templateUrl: '<button (click)="count += 1">8</button>'
+  styleUrl : ''
+})
+export class ExampleComponent {
+  count: number = 0;
+}
+-----------------------------------------------------------------
