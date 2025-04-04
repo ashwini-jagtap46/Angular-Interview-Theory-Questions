@@ -300,4 +300,22 @@ Observer got a next value:4
 Observer got a next value:5
 Observer got a complete notification
 ------------------------------------------------------------------------------
+const abc = "43"  
+Demo(abc)
+function Demo(dum){
+    dum = "ABC"     --- error
+    console.log(dum)
+}
+console.log(abc)    == 43
+-------------------------------------------
 
+const abc = {
+    name : "a"
+}
+Demo(abc)
+function Demo(dum){
+    dum.name = "ABC"
+    console.log(dum)   ---- ABC
+}
+console.log(abc)        ------ ABC
+------------------------------------------
