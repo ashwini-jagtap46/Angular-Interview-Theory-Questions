@@ -256,3 +256,48 @@ sum();
 How do you reversing an array
 How do you find min and max value in an array
 How do you find min and max values without Math functions
+--------------------------------------------------------------------------
+temp = 10 -- global
+
+ 
+def func(): 
+    temp = 20  -- local
+    print(temp)  // 20
+
+print(temp)  --- 10
+func() --- 20
+print(temp) --- 
+------------------------------------------------------------------------------
+let data = new Observable(); | interval(1000)
+
+let result = data.map((observer) =>
+next: "I am next",
+error: "I am error",
+complete: "I am complete"
+);
+
+result.subscribe((result) => console.log(result));
+
+-------------------------------------------------------------------
+const source = range(1, 5);
+
+ 
+
+const myObserver = {
+  next: x => console.log('Observer got a next value: ' + x),
+  error: err => console.error('Observer got an error: ' + err),
+  complete: () => console.log('Observer got a complete notification'),
+};
+
+ 
+
+source.subscribe(myObserver);
+
+Observer got a next value:1
+Observer got a next value:2
+Observer got a next value:3
+Observer got a next value:4
+Observer got a next value:5
+Observer got a complete notification
+------------------------------------------------------------------------------
+
