@@ -1,0 +1,831 @@
+------------------------------------------------------------------------------------------------------- SWITCH 1(2.4 Experience)---------------------------------------------------------------------------------------------------
+Interview Questions – Experience
+---------------------------------------------------------------------------------------
+Infosys Internal – Full stack (Angular + Node)
+1.	Why we use angular
+2.	Diff in angular and node
+3.	AOT and JIT
+4.	Lifecycle method of angular component
+5.	Data Binding
+6.	Data communication
+7.	Diff in constructor and ngOnInit
+8.	JS is single threaded or multithreaded
+9.	Callback functions
+10.	How u format data while display on UI
+11.	Directives
+12.	Modules in NodeJS
+13.	Which language used in NodeJS
+
+--------------------------------------------------------------------------------------------------------------------
+Tata Technologies – (Location-Banglore) | First ever interview(Very scary)
+
+Designation – Angular
+
+1.	U are working home or remote from 2 years? What’s the difference in working from home.
+2.	Rate yourself in HTML - 6 | CSS - 6 | Angular - 6 | Javascript - 7
+3.	Function Constructor?
+4.	Deep Copy and Shallow Copy?
+5.	Diff in stopPropagation and PreventDefault?
+------------------------------------------------------------------------------------------------------------------
+
+Mobisoft Interview Experience – Angular Developer
+Technical - 1
+1.	Lazy Loading
+2.	Http Interceptor
+3.	DI
+4.	Custom Pipe – Where u used in project? (Steps | Example)
+5.	Directives
+6.	Data Binding
+7.	HTTP Request Types | Status codes
+8.	Communication between components
+9.	Auth Guards
+10.	Have u used ChartJS?
+11.	Bootstrap Grid? How to use it?
+12.	Git or SVN used?
+13.	Rate in CSS?
+14.	Project Details 
+15.	Services
+16.	How to update angular version?
+
+
+Technical – 2
+1.	Have u worked on Lazy Loading
+2.	Tell me about yourself?
+3.	Which technologies have u worked?
+4.	Coding Challenge – 
+
+Problem Statement – Language(JS)
+
+In this problem a string is given and we have to reverse only the vowels of this string.
+Example
+"hello"
+"holle"
+Explanation:
+before reversing :  “hello”
+after reversing    :  “holle”
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Biz2Credit – Angular Developer
+
+Technical – 1
+
+1.	Introduction
+2.	Lifecycle hooks in angular
+3.	Reverse a string - Code
+4.	Sort an array - Code
+5.	DI
+6.	Services
+7.	Wild Card Routes
+8.	Lazy Loading
+9.	Pure Pipes and Impure Pipes
+10. Which version of angular used?
+11.Pipes
+
+--------------------------------------------------------------------------------------------------------------------
+
+TCS Interview – Single Phase Interview(One Round)
+
+1.	Introduction
+2.	Latest Angular version
+3.	Testing – Unit testing? Have u did? Know about it?
+4.	Have u done any external certifications in Angular?
+5.	RXJS Operators – take operator
+6.	Observables
+7.	Communication between parent child | Without parent child ?
+8.	Data binding
+9.	Lazy Loading?
+10.	Pipes
+11.	Which version of angular used?
+
+------------------------------------------------------------------------------------
+INK IN CAPS – Angular + UI(Mumbai)
+
+Technical – 1
+
+1.	Intro
+2.	Pipes
+3.	Pure and Impure Pipes
+4.	Have u worked on responsive design?
+5.	Which different mobile phones u did responsive design?
+6.	Have u faced any issues while moving from one device to another in responsiveness?
+7.	Is Infosys offer good projects? He aware about many support project in Infosys.He dobuts on my candidature.
+----------------------------------------------------------------------------------------------------------------------
+Offee – Mumbai Edtech Startup
+
+Small Interview – Due to Loaction not proceed further
+
+1.	Rate in UI technologies
+2.	U know about our company?
+3.	Lazy Loading
+4.	Auth Guard
+5.	HTTP Interceptor
+6.	Can we use two different directives on same line (ngFor | ngIf) ?
+7.	Pipes
+8.	Directives ?
+9.	Communication and Binding?
+---------------------------------------------------------------------------------------------------------------------
+RS Digitech – (Startup | MNC) | Location(Noida) | MEAN stack Developer
+| WFH | Reviews are very Good | Working on cutting edge technologies
+
+Technical – 1
+1.	Introduction
+2.	Angular – lazy loading
+3.	Which version of angular used?
+4.	HTTP Interceptor?
+5.	Auth Guards?
+6.	Do u have exposure in SQL and MongoDB?
+7.	JOINS in  SQL?
+8.	Which backend technologies have u worked? | Node+Express+Nest
+9.	Worked on Socket.io ? Know about it why we used that?
+10.	Redis any idea?
+11.	Middlewares?
+12.	How to scale applications 
+
+They working on technologies – Socket.io | Redis | AdonisJS | Angular
+Fast backend framework – fastifyJS | Migrating soon
+
+
+MR (Managerical) – Vaibhav vats(Adidas | Solution Architect)
+
+1.	Introduction – stress given on how much Work experience
+2.	Which technologies have u worked?
+3.	Backend which technologies worked?
+4.	Why u are switching company?
+5.	When to use which node framework any idea?
+  nestJS – When work on microservices | expressJS – 
+6.	Mistakenly from my mouth went redis and bad time start asked questions about it – Why we can use redis?
+7.	Why we are using redis?
+8.	Channels in redis?
+9.	How to handle the load when data is huge? How to transfer data from one channel to another channels?
+------------------------------------------------------------------------------------------------------------------------
+Mock Interview – UI Dev Guide | JS + Angular | On channel
+
+1.	Latest version of Javascript
+2.	ES6 features
+3.	Function Currying in JS?
+4.	Closure in JS?
+5.	Program – sum(10)(20)()  | mul(10)(20)() | Currying concept
+6.	Diff in normal functions and closures ?
+7.	Object methods in Javascript?
+8.	Shallow Copy and Deep Copy?
+9.	Create new array from base array | Objects – It’s behaviour with examples?
+10.	Capturing and Bubbling?
+11.	PreventDefault | StopPropagation | stopImmediatePropagation?
+12.	Limitations of arrow functions?
+13.	Temporal dead zone?
+14.	Scope in Javascript ?
+15.	Can we create variable without let | const | var in JS?
+16.	Event Loop in Js?
+17.	Which will execute first in event loop setTimeout and Promise?
+18.	Destructuring in JS?
+19.	Export and Import in JS?
+20.	What to call API in JS?
+21.	What is Promise? Promise Chaining? Stages of promise?
+22.	Types of promise in Javascript?
+23.	For of vs for in ?
+24.	Callbacks in javascript?
+25.	IIFE? | Usecase – Access the variables and update it.
+26.	Diff in local storage and session storage in Js?
+a.	Use case of session storage | can access session values from different tab.
+27.	Angular Latest version and new features?
+28.	How to pass data between two sibling component?
+29.	Benefits of subject in angular? Types of subjects?
+30.	RXJs operators in angular | fromEvent?
+31.	Debounce vs throttle in js?
+32.	Content Projections? Ng-template?
+33.	Guards in angular
+34.	Pure pipes | Impure pipes
+35.	How many ways we can bind data in angular?
+36.	ngOnChanges? Example?
+37.	Diff in structural directive | attribute directives?
+38.	Have u worked on custom directives?
+39.	Use of httpInterceptor? Request.clone() method?
+40.	View encapsulation in angular?
+41.	How to improve the performance of angular application?
+--------------------------------------------------------------------------------------------------------------------
+HCL Interview – Pune Magarpatta | Client (John Deere | Magarpatta)
+| Des – MEAN stack Developer | WFO | 45 min | over – 15 min
+
+Analysis – 1.If giving full stack major questions are based on backend and projects so throughly ready with that.(Hardly frontend)
+2. If any concepts ask if know example share screen and show with example so it consume time. Interviewer have confidence she has hands-on exp.
+3. Carefully mention those things u prepared well.
+
+Technical -1
+
+1.	Introduction (Expected brief introduction – 10 lines)
+2.	Projects Details – Brief details | why u not mentioned projects in resume | Please mention
+3.	Have u did any course?
+4.	How much u worked on FE and how much backend months ?
+5.	How much good with backend
+6.	Triggers in SQL
+7.	Have u designed rest api ? Tell what to create the rest api’s?
+8.	Which things u worked tell one by one?
+9.	Lazy loading
+10.	Pipes?
+
+------------------------------------------------------------------------------------------------------------------------
+Solace Infotech Private Limited | 8-5-2023 | (Pune, Mumbai, Remote)
+
+Technical -1
+
+1.Full stack Developer – 30% FE | 70% Backend
+2.Introduction
+3.What u work on node.js developer
+
+------------------------------------------------------------------------------------------------------------------------
+
+CreativeWebo – 15|5|2023 (Backend Developer)
+
+1.	Show me your live projects 
+2.	Program of pyramid using javascript
+
+--------------------------------------------------------------------------------------------------------------------
+
+ConcinnityMedia – 16|5|2023 (Intro)
+
+1.	Reactor Pattern in Node
+2.	Singleton pattern in node
+3.	Thread Pool
+4.	Control flow of nodejs
+5.	Working threads in node
+--------------------------------------------------------------------------------------------------------------------
+
+Infobeans  - Angular Developer | UI – 17|05|2023
+1.	Do u know about scss
+2.	How strong u are in html and css
+3.	Flex and grid
+4.	Position – Absolute, Relative
+5.	JIRA and Git
+6.	What is agile methodology
+7.	Diff between navigate and navigateUrl ?
+8.	Diff in get and post
+9.	Patch and put
+10.	Auth guard?
+11.	resolverRoute in authguard?
+12.	Cycle of angular component?
+13.	Which is fast foreach or normal for loop?
+14.	Diff in forof and forin?
+15.	Es6 concepts?
+
+
+---------------------------------------------------------------------------------------------------------------
+Wingit – 18|05|2023 – Backend Developer
+
+Write SQL Queries for below Commands
+Select - Select * from Employee where Empolyee.age > 20;
+Update - update Employee set Employee.name = "as" where Employee.name = "ar";
+Truncate - 
+Inner join - Select Employee.name from Employee Inner join Company on Employee.Emp_id = Company.Emp_id;
+/////////////////////////////////////////////////////////////////////////////////////////
+// Merge, Sort, Avoid duplicate 
+function mergeArray(arr1,arr2){
+    const newArray = [new Set([...arr1,...arr2])];
+    // newArray.push(arr1);
+    console.log(newArray);
+    let maxArray = newArray.sort((a,b)=> a-b );
+    return maxArray;
+}
+
+const arr1 = [1,2,4,3,2,5,5];
+const arr2 = [123,43,22,1,2];
+
+console.log(mergeArray(arr1,arr2));
+
+Output
+[ Set { 1, 2, 4, 3, 5, 123, 43, 22 } ]
+[ Set { 1, 2, 4, 3, 5, 123, 43, 22 } ]
+//////////////////////////////////////////////////////////////////////////////////////////////////
+function test(){
+   console.log(a)
+    let a = 1;
+}
+
+test();
+/////////////////////////////////////////////////////////////////////////////////
+Theory Questions
+1.	Amazon EC2 long form
+2.	Use of Jest, Why we use Jest
+3.	How much experience in rest api development
+4.	Diff between rest api and microservice?
+5.	Get and post
+6.	What is oops?
+7.	Data Abstraction?
+8.	Polymorphism?
+9.	Method overloading and method overriding?
+
+19-5-2023 | scry AI – 1 Hour – Full stack Developer | T1
+
+1.	Why we can use MongoDB and where we can use MySQL?
+2.	One code – execution | Leetcode
+3.	Data communication in Angular
+4.	How to join two documents in MongoDB?
+5.	Primary key and Foreign Key?
+6.	Optimization technique in Full stack Developer?
+7.	Redis?
+8.	Deployment process see one video?
+9.	CI-CD Hands on?
+19-5-2023 | Winjit | NodeJS Developer | T2 – ½ Hour
+
+1.U know lodash?
+2.Git push and Git merge?
+3.NVM?
+4.How to send data from server to client? Without initiating connection from client?
+5.Promise | Callbacks | Async – Await?
+6. Diff in REST and Microservices?
+
+
+19-5-2023 | Roambee | 1 Hour | T1
+
+1.	So much Codes related to Javascript | SQL | Coding knowledge ?
+2.	All basic questions of javascript – call,apply,bind | why we use mongo and where we use sql?
+3.	Indexes?
+4.	Performance optimization techniques in SQL?
+5.	Closure? | Promise | Async-Await | Callbacks | Callback Loops ?
+6.	Query Optimization?
+7.	Angular – Communication, How API’ works in angular?
+8.	Can truncate or delete will rollback?
+
+
+19-5-2023 | Elegantmicroweb | 1/2Hour | T1 – Full stack Developer
+
+Scenarioo Based Questions
+
+1.	Index? Why we create Index?
+2.	How we provide Security to API’s
+3.	If we want to call multiple asynchronous API’s sequentially? How we can do that?
+4.	JOINs query? Left table and right table ? Want to display data from left table that is not present in right table nor common data?
+5.	Diff between Promise | Async – await | Callbacks?
+6.	Project Details?
+7.	Deployment process?
+8.	AWS ? CI-CD? Jenkins?
+9.	Microservices?
+10.	Triggers?
+11.	Stored Procedures?
+12.	If transaction is unsuccessful so rollback how that can be achieved?
+(May be related to ACID) related to stored procedure it seems?
+13.	How u do if we need to google Sign or facebook Signin?
+
+
+HTS – 22|5|2023 | Fullstack | More Angular | 1 hr
+
+Coding Challenge – CSS,Angular (UI and Form Validation)
+
+------------------------------------------------------------------------------------------------------------------------
+ 
+Part Analytics – 23|5|2023  | Fullstack | ½ Hour (Horrible) | Scenario Based Questions
+
+1.	How u handle branching of categories in MongoDB Database
+2.	Where u use AWS Lambda in Project?
+3.	Promise?
+4.	Callback?
+5.	REST API ?
+6.	Output ?
+async function abc(){
+await function someUpdateFun(){
+    console.log("Async");
+}
+console.log("hello");
+}
+ 
+let t = abc();
+console.log("world");
+
+world
+hello
+
+7.
+async function abc(){
+await function someUpdateFun(){
+    console.log("Async");
+}
+console.log("hello");
+}
+ 
+let t = await abc();
+console.log("world");
+
+Output – hello world
+
+8.
+// find average rating from all items where rating is greater than 0.
+
+
+let items = [
+{id:123,name:'name1',rating:8,},
+{id: 1234, name: 'XYz', rating:0},
+{id: 125, name: 'XYz', rating:4}
+]
+
+------------------------------------------------------------------------------------------------------------------------
+
+OTS Solutions | 26-5-2023 | ½ hour | Full stack Developer
+
+1.	Coding Questions – “2hi3hel4four” If the number and next string same then return true otherwise false
+Approach – Take counter, Assign to integer and if char appears reduce it. If at end all equals to 0 the true or false
+2.	Show Live Project
+3.	Promise, Callback and Async-Await
+4.	Primary and Unique Key
+5.	Unique key limitation for NULL = 1
+6.	Pipeline in MongoDB
+7.	Aggregation in MongoDB
+8.	Sharding
+9.	NodeJS? U know React?
+10.	Guards in Angular
+
+--------------------------------------------------------------------------------------------------------------
+
+Loyaltics | 25 + 26/5/2023 | 1 hr + 20M (T1+MR) | Stack – Angular, Node, Azure
+
+1.	Git Projects he checked and asked questions about HTML, CSS, Angular
+2.	Like *, Flex and Grid, 1fr
+3.	How to secure rest api?
+4.	Authentication and Authorization?
+5.	Git rebase?
+6.	Challenge of one CSS and HTML
+7.	Show example of Callback,Promise and Async-Await?
+8.	Option for setTimeout?
+9.	Why use Git?
+10.	Amazon services?
+11.	General Question - Challenges u faced in project? Proud Moment? Technology Stack?
+
+------------------------------------------------------------------------------------------------------------------------
+KPIT – (T1 | ½ Hour) – NodeJS | Full stack Developer
+
+1.	Promise, Async-await, Callbacks?
+2.	Deep copy and shallow copy?
+3.	How to achieve deep copy in case of nested objects?
+4.	Database queries for joins?
+5.	Coding Challenge | input – 12345 | Output – sum(15) | Approach – Recursive
+
+Coding as per Below =>
+
+Inner Join // Common between both
+
+Select column_name from Orders o INNER JOIN  Customer c ON o.CustomerID = c.CustomerID where ; 
+
+Left Join
+Select CustomerName,ContactName from Orders o LEFT JOIN  Customer c ON o.CustomerID = c.CustomerID where ;
+
+
+Right Join
+Select CustomerName,ContactName from Orders o RIGHT JOIN  Customer c ON o.CustomerID = c.CustomerID where ;
+
+---------------------------------------------------------------------------------------------
+
+// var num = 12345
+// output : 15
+
+// Recursive Approach
+
+function sum(num){
+    let newArr = [num];
+    let arr = newArr.forEach((a)=>{
+        console.log(a);
+    })
+    console.log(newArr);
+    // if(num <= 1){
+    //     return 1;
+    // }
+    // return sum(num) + sum(num-1);
+}
+
+var num = 12345;
+console.log(sum(num));
+
+-------------------------------------------------------------------------------------------
+
+// function sayHello(callback){
+//     callback();
+//     console.log("I am hello function");
+// }
+
+// function callback(){
+//     console.log("I am callback function");
+// }
+
+// sayHello(callback);
+
+// const sayHello = new Promise((resolve,reject)=>{
+//     // resolve("Hello");
+//     reject("Error has occured");
+// })
+
+// sayHello.then((data)=> console.log(data)).catch((err)=>console.log(err));
+
+// Async and await
+
+// const sayHello = async() =>{
+//     await showDB();
+// }
+
+// sayHello();
+
+// Shallow Reference
+// Deep copy | Value should copy not reference
+// let a = 10;
+// let b = a;
+// b = 20;
+// console.log(a,b);
+
+// Spread opeartor, 
+let a = {
+    name:"abc",
+    address:{
+        city:"Pune"
+    }
+}
+
+let b = JSON.parse(JSON.stringify(a));
+
+b.address['city'] = 'Mumbai';
+
+console.log(a);
+console.log(b);
+
+---------------------------------------------------------------------------------------------------------------------
+KPIT | T2 | NodeJs Developer – Not Selected | Interviewer Helpful
+
+1.	Write logic of program min and max for 0(n) time complexity
+2.	Create a REST API for take input as array and find min and max of array
+3.	Install nodemon | Uninstall
+4.	Install express | Create basic Rest API’s
+5.	Know clusters, Load Balancing
+6.	What is nodejs?
+7.	What is non-blocking?
+8.	If we blocked main thread that is good way?
+9.	Promise, PromiseALL, PromiseSettled, PromiseRACE?
+
+------------------------------------------------------------------------------------------------------------------------
+Byte Sigma | Startup | 12 Employee’s | ! round with Client
+
+1.	Given array find unique elements
+2.	How to secure API’s
+3.	Async and sync?
+4.	What is nodeJS?
+5.	Rules while creating REST API’s
+6.	Discussion about project – PHP all software need to migrate to Node, Nest, Express, REST, PostrgeSQL
+
+Loyaltics Cultural Round 
+
+1.	Basic Questions about yourself, Flexible Timings, About Product, Tech stack
+
+
+Intangles | Backend Developer | 1 hr | 31-05-2023
+
+Coding question:
+Entities : {
+	Student: [ 
+{id: 11, name: Pratham, Addr: Pune},
+    	{id: 22, name:: Savya,, Addr:: Nanded}
+   ],
+Subject: [	
+			{id: 33, name: DataStructures, teacher: MKP},
+{id: 44, name: Algorithms, teacher: NP}  
+  ],
+Exam:	[	
+		{id: 55, name: DataStructures, type: Viva},
+{id: 66, name: ProjectMgmt, type: MCQ}
+]
+}
+
+Write a function that takes the above object as input and returns an object that maps of all the Ids as keys and the corresponding object as value of the object 
+
+I.e.
+Expected Output : 
+{
+	11 :  {id: 11, name: Pratham, Addr: Pune},
+	22: {id: 22, name:: Savya,, Addr:: Nanded},
+	33: {id: 33, name: DataStructures, teacher: MKP},
+44: {id: 44, name: Algorithms, teacher: NP},  
+	.
+	.
+	.
+}
+Approach – forin, forof, arr[id] = arr;
+
+------------------------------------------------------------------------------------------------------------------------
+
+DataDynamix – MEAN Stack Developer | 20 min
+
+1.	Tell me about Projects
+2.	Name of projects
+3.	Clients of projects
+4.	Day to day task
+5.	Role and Responsibilities
+6.	Bank project is dummy – He catch me
+
+
+Rainclouds | Angular Developer | ½ hr
+
+1.	Pressured Company
+2.	Diff between angular 12 and 13
+3.	Write code for Formbuilder
+4.	ES6
+5.	Lifecycle hooks in angular
+6.	Diff in ES5 | ES6
+
+
+1 – June | No interview | Laptop Couried
+
+
+1 – June | 9.30-10.30 | OTS Solutions | MR Round – Project Manager | Scenario Based Questions | Pressure is more
+
+1.	How u create DB database for if customer placed order so how u define the table schema for Customer, Orders, Product, Invoice
+2.	If payment is successful then only invoice generated so in which table flag need to set
+3.	Listing in Full stack – If u want to sort the data if we put first letter in search bar then result should be sorted how u implement the functionality for specific
+4.	If we have different types of images with resolution as per Device resolution which should be called how u decide?
+5.	How to make API private? Steps?
+6.	How to secure API’s
+7.	How u improve your skillset based on recent need and upto date with latest technology like chatgpt
+8.	How u handle the repository structure in git,github
+9.	How u handle the more pressure when u need to meet deadline
+10.Design DB schema – 
+Products, Customers, Invoice, Orders
+
+
+Products
+
+Product_id
+product_name
+category
+article_number | group_id - Parent sku
+variants
+
+
+Customers
+customer_id
+customer_name
+address
+email_id
+phone_no
+
+purchase_date
+invoice_id
+
+
+Invoices
+Invoice_id  - primary key
+Date_of_purchase
+order_id - Foreign key
+shipment_date
+
+payment - succesful
+
+Orders
+Orders_id - primary key
+Order_date
+invoice_id - foreign key
+
+
+
+2 – June | Appendd | NodeJs Developer | T1 | Pune
+
+1.	MySQL vs MongoDB
+2.	Why u want to leave infy?
+3.	Git repository structure?
+4.	How u create branch for new-feature or bug
+5.	Have u used webpack, gulp, grunt what are they? How they convert to JS? Automatic or any command?
+
+5 – June | Vernost | Mumbai | Backend Developer | T1
+
+1.	Why u are switching?
+2.	AWS service
+3.	How to fetch S3 images in AWS?
+4.	Program for missing number?
+5.	SQL Query | Inner join,left join and outer join?
+6.	Role and Responsibility?
+7.	JWT Token?
+8.	If u login as user in website ? Expiry for JWT ? How long session is there for user?
+9.	Tips – Learn EC2,Autoscaling,Basic of deployment,Kinesis,S3
+
+Rainclouds | Angular Developer | T!
+
+1.Diff between angular 12 and 13
+2.Lifecycle hooks
+3.Example of formbuilder
+
+GS Lab | June
+
+1.	Basic Questions
+2.	Security of API’s
+3.	Coding question for palindrome
+4.	One question for var and let – coding question 
+
+CES | Remote | Angular Developer
+
+1.	Technical – stackblitz
+2.	1 HR | 2 Internal | 1 Client Round
+
+
+Betsol
+
+2 Tech(1 and 2 is Medium) | 2 MR | 1 HR
+
+Basic questions
+
+1.	Coding related to JS
+2.	How to send date in form from one page to another
+
+
+Intelizign | Client – siemens | 2 round client location | Risky to get offer
+1.	Assessment | To send data from child to parent and display result based on input search
+2.	Basic Questions
+
+
+TCS Postponed offer by 3 Months
+
+
+July
+
+Veritas – 2 tech | 1 MR | Rejected at MR
+
+1.	All basic coding questions go with doing assessments practise round stretch to 11/2 hour long.
+2.	MR is not good Technical, About company, About u
+
+
+Varian 
+
+T1 | July
+
+1.	Prime Number
+2.	Javascript coding questions and Angular
+3.	Less Theory | 2-3 Interviewer
+
+
+Penisula – 31 | 07 | Pune |
+
+1.	All basic Questions
+2.	Scenario Based
+3.	Guess the output
+
+
+Neosoft | Bad Experience
+
+1.	2 Technical | 1 Telephonic and meet | Basic Questions
+2.	Advance concepts and 1 assessment for progress bar
+
+iWork – 60 People | 
+
+T1 – Just Formality question on MVC, Authentication and Promise
+
+
+Heera Software – 160 people | Angular Developer
+
+-------------------------------------------------------------------------------- SWITCH 2 (4 year Experience )--------------------------------------------------------------------------------------------------------------------------------------
+Virtusa(Round - 1)
+AI Interview
+1. What are the role and responsibilities in Project?
+2. What are RXJs?
+3. What is NGRX?
+4. Write Angular Program for search functionlity with dummy array? Explain Code
+
+Wissen Technology(Round 1)
+1.Event Looping
+2. Create Custom Pipe?
+3. Create Custom Directive?
+4. RXJS?
+5. What are RXJS Operator?
+6. MergeMap and ForkJoin?
+7. Object Destructuring?
+
+SaiSystems(Round 1)
+1.Find the sum of 2, 3 largest number in Array?
+2. Template Literal
+3. ES6
+4. RXJS and Opeartors?
+5. Angular Application Optimization Technique?
+6. Template and Reactive Form Diff
+7. Decorators?
+
+Accolite Digital(Round -1)
+1.String - Find occurence of each letter
+2. Find duplicate elements from Array?
+3. Project, Role and Responsibilities
+4. Closure
+
+Silicon Stack(R-1)
+1.Transpiler
+2. Chained Pipes?
+3. Semantic elements?
+4. Positions in CSS
+5. Cell Padding and Cell Spacing
+6. Code Given and tell me output
+7. Design Pattern
+8. DI in Angular
+9. Decorators and Annotations
+10. Role and Responsibilities
+11. Which audio format support in HTML?
+12. Map Method
+13. Closure
+14. How to secure Angular Application
+15. How to improve performance of Angular Application
+
+
+
+
+
+
+
+
+
