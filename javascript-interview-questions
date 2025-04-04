@@ -1,0 +1,73 @@
+What is Event Looping?
+What are the ES6 features?
+What are the Array methods?
+What are String methods?
+Callback Functions
+IIFE?
+Closure in JS?
+Hoisting?
+Difference between Let, Const, Var?
+Map method in Javascript
+What is the difference between Call, Apply and Bind?
+What is the purpose of the array slice method?
+What is the purpose of the array splice method?
+What is the difference between slice and splice?
+What is the difference between == and === operators
+What is a higher order function?
+What is the currying function?
+What is a pure function?
+What is memoization?
+What is a Cookie?
+What is web storage?
+What are the differences between cookie, local storage and session storage
+Give an example of a web worker?
+What is a promise?
+What is a callback function?
+What is promise chaining?
+What is typeof operator
+What is undefined property
+What is null value
+What is the difference between null and undefined
+What is the difference between window and document
+What is isNaN
+What are global variables
+What is event bubbling
+What is event capturing
+Is JavaScript a compiled or interpreted language
+Is JavaScript a case-sensitive language
+What is the use of preventDefault method
+What is the use of stopPropagation method
+What is the use of setTimeout
+What is the use of setInterval
+Why is JavaScript treated as Single threaded
+What is an event delegation
+What is the purpose JSON stringify
+What is the purpose of clearTimeout method
+What is the purpose of clearInterval method
+How do you make first letter of the string in an uppercase
+How do you compare two date objects
+How do you trim a string in javascript
+What is a rest parameter
+What is spread Operator?
+What is default Parameter?
+What are primitive data types
+What is an event loop
+What is call stack
+What is an event queue
+Does the const variable make the value immutable
+What are template literals
+What is array destructring, object destructuring?
+What is nullish coalescing operator (??)?
+What is the difference between setTimeout, setImmediate and process.nextTick?
+What is debouncing?
+What is throttling?
+What is optional chaining?
+How to verify if a variable is an array?
+What is pass by value and pass by reference?
+What are the possible reasons for memory leaks?
+What are the benefits higher order functions?
+How do you create polyfills for map, filter and reduce methods? (Product Based)
+What is the difference between map and forEach functions?
+What is Lexical Scope?
+What is deep copy and shallow Copy in JS?
+  
