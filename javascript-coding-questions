@@ -1,0 +1,255 @@
+https://www.keka.com/javascript-coding-interview-questions-and-answers -> Here find tricky Angular Questions
+-----------------------------------------------------------------------
+function findMinNumber(arr){
+    let min = arr[0];
+    for(let i=1; i<=arr.length; i++){
+        if(arr[i] < min){
+            min = arr[i];
+        }
+    }
+   return min;
+}
+
+const result = findMinNumber([10,50,-1]);
+console.log(result);
+--------------------------------------
+function checkPalindrome(str){
+    const length = str.length;
+    for(let i=0; i< length/2; i++){
+        if(str[i] !== str[length-1-i]) return `${str} is not palindrome`
+    }
+    return `${str} is palindrome`
+}
+
+const str = prompt("Enter string: ");
+const result = checkPalindrome(str);
+console.log("Result:", result);
+--------------------------------------
+function reverseString(str){
+    const reverseString = str.split("").reverse().join("");
+    return reverseString;
+}
+
+const str = prompt("Enter string: ");
+const result = reverseString(str);
+console.log("Result:", result);
+-----------------------------------
+function reverseString(str){
+    let reverseStr = '';
+    for(let i=str.length-1; i>=0; i--){
+        reverseStr += str[i];
+    }
+    return reverseStr;
+}
+
+const str = prompt("Enter string: ");
+const result = reverseString(str);
+console.log("Result:", result);
+--------------------------------
+function evenNumbers(numbers){
+    return numbers.filter(numbers => numbers%2 === 0)
+}
+
+const result = evenNumbers([12,11,13,15]);
+console.log("Result:", result);
+------------------------------------
+function factorial(number){
+    if(number === 0 || number === 1){
+        return number;
+    }
+    else{
+        return number * factorial(number-1)
+    }
+}
+
+const result = factorial(4);
+console.log("Result:", result);
+
+---------------------------------------
+function isPrimeNumber(number){
+    if(number <= 1){
+        return "Not Prime";
+    }
+   for(let i=2; i<= Math.sqrt(number);i++){
+       if(number % i===0) return "Not Prime";
+   }
+   return "Prime";
+}
+
+const result = isPrimeNumber(1);
+console.log(result);
+
+------------------------------------
+function findLargestElement(nestedArray) { 
+
+  let largest = nestedArray[0][0];
+  for(let array of nestedArray){
+      for(let num of array){
+          if(num > largest){
+              largest = num;
+          }
+      }
+  }
+  return largest; 
+
+} 
+
+const result = findLargestElement([[10,80],[30,40]]);
+console.log(result);
+
+-----------------------------------------------
+function fibonacciNumbers(n) { 
+    if(n <= 1){
+        return n;
+    }
+    return fibonacciNumbers(n-1) + fibonacciNumbers(n-2);
+} 
+
+const result = fibonacciNumbers(3);
+console.log(result);
+
+------------------------------------------------------
+function toTitalCase(str) { 
+   return str.replace(/\b\w/g,l => l.toUpperCase());
+} 
+
+const result = toTitalCase("ashwini jagtap");
+console.log(result);
+
+OR
+
+function toTitalCase(str) { 
+   return str.split(" ").map(word => {
+       return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+   }).join(" ");
+} 
+
+const result = toTitalCase("ashwini jagtap");
+console.log(result);
+
+-----------------------------------------------------
+function findDuplicateElements(arr) { 
+    let duplicateArr = [];
+  for(let i=0; i<arr.length; i++){
+      if(arr[i] === arr[i+1]){
+          duplicateArr.push(arr[i]);
+      }
+  }
+  return duplicateArr;
+} 
+
+const result = findDuplicateElements([20,50,50,30,30]);
+console.log(result);
+
+
+-----------------------------------------------------------
+function findDuplicates(arr) {
+   const set = new Set();
+   const duplicate = [];
+   for(let item of arr){
+       if(set.has(item)){
+           duplicate.push(item);
+       }
+       else{
+           set.add(item);
+       }
+   }
+   return duplicate;
+}
+
+// Example usage:
+const array = [1, 2, 3, 4, 5, 1, 3, 6, 7, 8, 9, 2, 9];
+const result = findDuplicates(array);
+console.log(result);
+
+---------------------------------------------------------------
+function findUniqueElement(arr) {
+   return [...new Set(arr)];
+}
+
+// Example usage:
+const array = [1, 2, 3, 4, 5, 1, 3, 6, 7, 8, 9, 2, 9];
+const result = findUniqueElement(array);
+console.log(result);
+
+
+---------------------------------------------------------------
+function findLetterOccurence(str) {
+   let getCountOfLetter = {};
+   for(let i=0; i<str.length; i++){
+       let char = str[i];
+       
+       if(getCountOfLetter[char]){
+           getCountOfLetter[char] += 1;
+       }else{
+           getCountOfLetter[char] = 1;
+       }
+   }
+   return getCountOfLetter;
+}
+
+// Example usage:
+const result = findLetterOccurence("adsdssd");
+console.log(result);
+
+
+--------------------------------------------------------------
+let obj = {
+    "one" : 1,
+    "two" : 2,
+    "three" : {
+        "four" : 4,
+        "five" : 5
+    }
+}
+let {one, two, three} = obj;
+let {four, five} = three;
+
+console.log(four);
+-----------------------------------------------------------------------
+Template Literal
+
+a = 10;
+b = 20;
+console.log(`sum of ${a} and ${b} is ${a+b}`);
+-------------------------------------------------------------------------
+// Variable and function declaration moved at top of their scope before execution
+console.log(`value of a is ${a}`);
+console.log(`value of a is ${b}`);
+console.log(`value of a is ${c}`);
+
+var a = 10;  //output - Undefined
+let b = 20;  // output - Reference Error
+const c = 30; // output - Reference Error
+
+greet();
+
+function greet(){
+    console.log("Welcome");
+}
+--------------------------------------------------------------------
+// Diff in let, const and var
+
+if(true){
+    var a = 10;
+    let b = 20;
+    const c = 30;
+    console.log("value of a is: ", a);
+    console.log("value of b is: ", b);
+    console.log("value of c is: ", c);
+}
+
+    console.log("value of a is: ", a);  // 10
+    console.log("value of b is: ", b);  //  Reference Error
+    console.log("value of c is: ", c);  //  Reference Error
+    
+--------------------------------------------------------------------------
+
+function sum(){
+    var a = 10;
+    console.log("value of a is:", a);
+}
+console.log("value of a is:", a);  // Reference Error
+
+sum();
+--------------------------------------------------------------------------
