@@ -29,3 +29,7 @@ on click of button if completed = "true" then show button
 ----------------------------------------------------------------------
 Create table have 2 rows and columns - at row 2 and column 2 it should show 5 else show empty
 ----------------------------------------------------------------------
+Angular Routing Example
+Form disabled
+Form Reset
+Filter Functionality
