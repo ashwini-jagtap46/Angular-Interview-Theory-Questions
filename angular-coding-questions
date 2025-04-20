@@ -33,3 +33,5 @@ Angular Routing Example
 Form disabled
 Form Reset
 Filter Functionality
+---------------------------------------------------------------------
+craete login form when click on submit display the data in table but after submit data should be reset from form fields?
