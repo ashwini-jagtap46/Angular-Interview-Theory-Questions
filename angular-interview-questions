@@ -46,3 +46,15 @@ Any suggestion have you provide to give as per customer feedback to make better 
 For Unit testing? What have you used?
 Functional Testing?
 Cypress?
+Angular Signals?
+Module Fedration
+Have you worked on project where 2-3 src is maintained then how to run which project how angular will understand?
+angular.json
+How project excute in angular what is starting point?
+In angular 17 we don't use main.ts how it is happened?
+Diff in Angular 10 and Angular 17?
+Diff in Div and Ng-Container?
+I want to call 5 API when all excute it should display the result then which RXJs operator you can use?
+ES6 longform
+Which is the latest version of ES?
+If want to load dynamic data in angular in html file what needs to use? (template or templateOutlet - explore more on this?)
