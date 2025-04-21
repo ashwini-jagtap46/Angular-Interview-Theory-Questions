@@ -1,1 +1,14 @@
 (function immediateA(a) {   return (function immediateB(b) {     console.log(a);   })(1); })(0); What is logged on console?
+--------------------------------------------------------------------------------------------------------------------------
+for (var i = 0; i < 3; i++) {   setTimeout(function log() {     console.log(i); 
+// What is logged?  
+ }, 1000); }
+---------------------------------------------------------------------------------------------------------------------------
+const object = {   who: 'World',   greet() {     return `Hello, ${this.who}!`;   }, farewell: () => {     return `Goodbye, ${this.who}!`;                                                                         } };
+ console.log(object.greet());    // What is logged?
+ console.log(object.farewell()); // What is logged?
+----------------------------------------------------------------------------------------------------------------------------
+try {     console.log("starting");     setTimeout(() => {         console.log("inside setTimeout");         throw new Exception("error");      }, 10);      console.log("just before catch"); } catch (e) {      console.log("in catch"); } console.log("outside try");
+---------------------------------------------------------------------------------------------------------------------------
+
+
