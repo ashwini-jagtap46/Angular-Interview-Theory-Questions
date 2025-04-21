@@ -20,7 +20,7 @@ Explain Directives in Angular?
 What is Typescript? Why we can use it over Javascript?
 What is difference between Directive and Component?
 What is Module
-What is Lazy Loadinh
+What is Lazy Loading
 How to improve performance of Angular Application
 What is Angular CLI
 What is Dependancy Injection?
@@ -59,3 +59,5 @@ ES6 longform
 Which is the latest version of ES?
 If want to load dynamic data in angular in html file what needs to use? (template or templateOutlet - explore more on this?)
 how to reuse some html block of code instaed writing multiple times in angular in same component in angular 
+Resolver
+Guards? Why to use guards?
