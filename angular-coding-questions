@@ -35,3 +35,14 @@ Form Reset
 Filter Functionality
 ---------------------------------------------------------------------
 craete login form when click on submit display the data in table but after submit data should be reset from form fields?
+----------------------------------------------------------------------
+Write a function to convert a string from camel case to snake case. for e.g input : thisIsATest   output : This_Is_A_Test
+-----------------------------------------------------------------------
+You are given a nested array, you have to write a function to flatten it. For eg. 1. Input - [1, [2]] Output - [1,2] 2. Input - [1, [2], [3 , [4]]] Output - [1,2,3,4]
+[1, [2], [3 , [4,[5,[6]]]]] 
+-------------------------------------------------------------------------
+It should show count on UI
+30 -> 0 (If zero) -> text -> TakeOff
+Reset Button -> Reset to 30
+Disable reset if countDown = 0;
+--------------------------------------------------------------------------
