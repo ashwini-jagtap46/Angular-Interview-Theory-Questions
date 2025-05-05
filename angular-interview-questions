@@ -61,3 +61,4 @@ If want to load dynamic data in angular in html file what needs to use? (templat
 how to reuse some html block of code instaed writing multiple times in angular in same component in angular 
 Resolver
 Guards? Why to use guards?
+Angular Signals
