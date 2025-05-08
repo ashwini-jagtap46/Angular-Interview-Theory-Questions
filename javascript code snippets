@@ -10,5 +10,54 @@ const object = {   who: 'World',   greet() {     return `Hello, ${this.who}!`;  
 ----------------------------------------------------------------------------------------------------------------------------
 try {     console.log("starting");     setTimeout(() => {         console.log("inside setTimeout");         throw new Exception("error");      }, 10);      console.log("just before catch"); } catch (e) {      console.log("in catch"); } console.log("outside try");
 ---------------------------------------------------------------------------------------------------------------------------
+/**
+ * What will be the output of the following code?
+ *
+ */
+function fun(n: number): number {
+    if (n === 1) {
+        return 1;
+    }
+    return 2 * fun(Math.floor(n / 2));
+}
+
+function main() {
+    // console.log(fun(17)); 
+    console.log(fun(34)); 
+}
+
+main();
+------------------------------------------------------
+// sum of natural numbers
+function sum(num: number): number {
+    // throw new Error("Implement");
+    // let result = 0;
+    
+    // for(let i=0; i<=num;i++){
+    //     result += i;
+    // }
+    
+    // return result;
+}
+
+function main() {
+    assert.equal(sum(0), 0);
+    assert.equal(sum(2), 3);
+    assert.equal(sum(1), 1);
+    assert.equal(sum(3), 6);
+    assert.equal(sum(10), 55);
+    console.log('All tests passed');
+}
+
+// Sum of natural numbers using recursion
+function sum(num: number): number {
+ if(num <= 1){
+        return num;
+    }
+
+    return num + sum(num-1);
+}
+--------------------------------------------------
+
 
 
