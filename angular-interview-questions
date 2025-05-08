@@ -62,3 +62,4 @@ how to reuse some html block of code instaed writing multiple times in angular i
 Resolver
 Guards? Why to use guards?
 Angular Signals
+Tree shaking in Angular?
