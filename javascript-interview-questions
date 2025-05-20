@@ -72,5 +72,6 @@ What is Lexical Scope?
 What is deep copy and shallow Copy in JS?
 What is callback hell?
 Diff in async and await in Javascript?
-
+Shallow copy and Deep Copy?
+Diff in arrow function and normal function? this points to where?
   
