@@ -48,3 +48,5 @@ Disable reset if countDown = 0;
 --------------------------------------------------------------------------
 I have form in that email and password. Write the scenarios which are the valid scenarios and what are the different validations we can apply using regex or functions
 --------------------------------------------------------------------------
+How to pass data from Parent child - using @Input and @output decorators
+---------------------------------------------------------------------------
