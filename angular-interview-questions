@@ -63,3 +63,16 @@ Resolver
 Guards? Why to use guards?
 Angular Signals
 Tree shaking in Angular?
+What are the issues have you faced in angular migrations?
+What are the breaking chnages in migartions?
+Test coverage of Unit Testing?
+Desgin Patterns in Angular?
+Explain change detection? 
+View Encapsulation?
+I don't want global CSS override the component CSS. What needs to do?
+Prepare very well chnage detection how it works?
+Mutable and Immutable which object change in chnage detection?
+Diff in Angular 10 and 12?
+What are the latest features in Angular 15?
+What are latest in Angular 17?
+What are latest in Angular 19?
