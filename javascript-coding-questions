@@ -326,3 +326,15 @@ Find max and second max number from Array?
 ----------------------------------------
 flattenArray with or without builtin methods?
 ----------------------------------------
+Two sum Problem
+---------------------------------------
+Find subsets of two sum?
+----------------------------------------
+// Example: [“a", "b", "c", "b", "a", “a"]
+// Output: “b”
+(Second max character should print)
+--------------------------------------------------
+Find non-repetitive numbers from array -?
+Array - [1,2,3,4,5,2,4,5]
+Output - [1,3]
+--------------------------------------------------
